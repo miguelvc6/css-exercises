@@ -1,0 +1,19 @@
+.the-class{
+    background-color: rgb(220, 20, 97);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+.special{
+    font-size: 24px;
+}
+
+#num-2{
+    color: blue;
+    font-size: 32px;
+}
+
+#num-4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
